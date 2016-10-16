@@ -1,0 +1,25 @@
+#Site settings
+title: Mariah Achie
+header-img: img/home-bg.jpg
+email: mariahachie@gmail.com
+copyright_name: Mariah Achie
+description: "Hi there! I'm a third year CS major at the University of Waterloo, currently seeking an internship in the summer of 2016."
+baseurl: ""
+url: "mariahachie.github.io"
+twitter_username: MariahAchie
+github_username:  mariahachie
+facebook_username:  mariah.achie
+email_username:  mariahachie@gmail.com
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
