@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "Chamber Crawler 3000"
+subtitle:   "fun with C++14"
+date:       2016-08-14 12:00:00
+author:     "Mariah Achie"
+categories: "project"
+header-img: "img/cc3k-header.jpg"
+---
+<p>For my CS 246 final project, I collaborated with 2 classmates to create a command line game in C++. Over the course of about 2 weeks we designed, implemented, tested, and learned a lot about OOP as well as C++14 features. I was responsible for creating the game board class, managing the user interactions, and did some of the treasure/item classes. This was the first offering of the course where C++14 was taught, as it used to be C++11, so we made sure to take advantage of smart pointers, RAII, and vectors in our implementation. Previous assignments required us to dynamically resize and reallocate our arrays, but most of the memory management for our final assignment was handled by the new C++ features. Regardless, valgrind and gdb were incredibly useful in fixing memory leaks and bugs. We also made sure to use git for version control, on a private repo hosted by uWaterloo GitLab.</p>
+
+<a href="#">
+ <img src="{{ site.baseurl }}/img/cc3k.jpg" alt="Game Play"/>
+</a>
+<span class="caption text-muted">The fruits of our labour</span>
