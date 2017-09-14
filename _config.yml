@@ -1,15 +1,15 @@
 #Site settings
 title: Mariah Achie
 header-img: img/home-bg.jpg
-email: mariahachie@gmail.com
+email: mariah.achie@uwaterloo.ca
 copyright_name: Mariah Achie
 description: "Hi there! I'm a third year CS major at the University of Waterloo, currently seeking an internship in the summer of 2016."
 baseurl: ""
 url: "http://mariahachie.github.io"
-twitter_username: MariahAchie
+twitter_username:
 github_username:  mariahachie
-facebook_username:  mariah.achie
-email_username:  mariahachie@gmail.com
+facebook_username: 
+email_username:  mariah.achie@uwaterloo.ca
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
